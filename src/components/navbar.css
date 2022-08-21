@@ -1,0 +1,21 @@
+nav ul li a{
+    color: rgb(240, 233, 233);
+    padding: 2.1rem 4rem ;
+    font-weight: 500;
+    font-size: 20px;
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    background: linear-gradient(#020202, #19191a);
+}
+nav ul li a:hover{
+    background: white;
+    color: black;
+}
